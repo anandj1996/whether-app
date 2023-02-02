@@ -1,0 +1,32 @@
+.wetherBg{
+  background:url(/public/Bgimg.avif);
+  height: 55vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.form-control{
+  border-radius:20px;
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.wethericon{
+  height: 100px;
+  width: 100px;
+  margin-top: 2rem;
+}
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size: 45px;
+  font-weight: 700;
+}
